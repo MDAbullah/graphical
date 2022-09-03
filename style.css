@@ -1,0 +1,142 @@
+.body{
+    font-family: 'Cinzel', serif;
+    margin: auto;
+}
+.nave{
+    background-color: rgb(169, 238, 58);
+    padding: 6px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+    
+    
+
+}
+
+.hhh{
+    color: rgb(119, 119, 237);
+    padding-left: 20px;
+    font-size: 30px;
+    color: rgb(11, 11, 240);
+
+}
+.aaa{
+    ont-size: x-large;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+.aaa:hover{
+    color: rgb(232, 74, 135);
+}
+.head-1{
+  
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(251, 217, 229);
+    
+}
+.yyy{
+    background-color: rgb(251, 217, 229);
+    padding-top: 10px;
+    width: 100%;
+    padding: 50px;
+}
+.head{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(123, 123, 123);
+    padding-bottom: 50px;
+}
+.uuu{
+    display: grid;
+grid-template-columns: repeat(3,1fr);
+border-radius: 10%;
+
+padding-bottom: 20px;
+padding-right: 65px;
+
+}
+.box{
+ padding-top: 30px;
+ border-radius: 7%;
+ box-shadow: 2px 3px 8px 3px;
+ margin: 20px;
+ padding: 20px;
+ padding-right: 50px;
+}
+.iii{
+    text-decoration: none;
+    background-color: tomato;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: azure;
+    padding-top: 8px;
+    padding-bottom: 8px;}
+.kl{
+    font-size:55px;
+}
+.kk{
+    font-size: 25px;
+}
+.kh{
+    padding-left: 50px;
+}
+.ks{
+    padding-top: 30px;
+}
+.color{
+    color: rgb(241, 94, 170);
+}
+.sss{
+    font-weight: 40px;
+}
+.box:hover{
+    background-color: bisque;
+}
+.ppp{
+    font-size: 80px;
+    text-align: center;
+    color: rgb(62, 49, 92);
+    font-weight: 800;
+}
+.map{
+    justify-content: space-between;
+}
+.marq{
+    font-size: 40px;
+}
+.rip{
+    color: rgb(252, 79, 85);
+}
+.www{
+    font-size: 26px;
+}
+.btn{
+    font-size: 40px;
+text-decoration: none;
+background-color: rgb(247, 149, 149);
+padding: 10px 8px 10px 8px;
+border-radius: 30px;
+color: bisque;
+}
+.nich{
+    background-color: rgb(169, 238, 58);
+    width: 100%;
+    padding: 35px;
+}
+.nich p{
+    font-size: 30px;
+    font-weight: 800;
+    color: brown;
+    text-align: center;
+}
+
+
